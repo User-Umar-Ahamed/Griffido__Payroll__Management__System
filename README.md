@@ -1,12 +1,12 @@
 # 🧾 Griffindo Payroll System
 
-A **modern payroll management system** developed using **Visual Studio** and **Microsoft SQL Server (MSSQL)**. The system is designed with a **user-friendly interface** to streamline employee management, salary processing, and administrative access control—**accessible only by administrators**.
+A **modern payroll management system** developed using **Visual Studio** and **Microsoft SQL Server (MSSQL)**. The system is designed with a **user-friendly interface** to streamline employee management, salary processing, and administrative access control **accessible only by administrators**.
 
 ---
 
 ## 🚀 Introduction
 
-The **Griffindo Payroll System** is a complete software solution for managing employee data and calculating salaries securely within an organization. It simplifies payroll processing by automating employee registration, salary computation, and data handling—all under administrative control.
+The **Griffindo Payroll System** is a complete software solution for managing employee data and calculating salaries securely within an organization. It simplifies payroll processing by automating employee registration, salary computation, and data handling all under administrative control.
 
 > 🎯 Built for reliability, security, and ease of use.
 
